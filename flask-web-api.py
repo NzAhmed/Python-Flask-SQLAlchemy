@@ -91,8 +91,3 @@ def product_delete(id):
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-"""
-Resources:
-https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
-"""
