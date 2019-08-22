@@ -91,3 +91,8 @@ def product_delete(id):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+"""
+https://www.tutorialspoint.com/flask/flask_sqlalchemy.htm
+"""
